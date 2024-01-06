@@ -12,7 +12,7 @@ namespace Task2
 {
     public static class Drawer
     {
-        public static int timer = 0;
+        public static int timer;
         static float[] earth_mat_ambient   = {0.0f, 0.0f, 1.0f, 1.0f};
         static float[] earth_mat_diffuse   = {0.0f, 0.0f, 0.5f, 1.0f};
         static float[] earth_mat_specular = {1.0f, 0.5f, 0.0f, 1.5f}; 
