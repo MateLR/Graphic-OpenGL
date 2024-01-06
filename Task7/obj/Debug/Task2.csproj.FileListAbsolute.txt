@@ -1,0 +1,42 @@
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\bin\Debug\Task2.exe.config
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\bin\Debug\Task2.exe
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\bin\Debug\Task2.pdb
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\bin\Debug\OpenTK.dll
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\bin\Debug\OpenTK.GLControl.dll
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\bin\Debug\SharpGL.dll
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\bin\Debug\SharpGL.WinForms.dll
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\obj\Debug\Task2.Form1.resources
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\obj\Debug\Task2.csproj.CopyComplete
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\obj\Debug\Task2.exe
+C:\Users\MateBook 13\Desktop\Learning\Компьютерная графика\graphic\Task2\obj\Debug\Task2.pdb
+C:\Users\MateBook 13\Desktop\Task2\bin\Debug\Task2.exe.config
+C:\Users\MateBook 13\Desktop\Task2\bin\Debug\Task2.exe
+C:\Users\MateBook 13\Desktop\Task2\bin\Debug\Task2.pdb
+C:\Users\MateBook 13\Desktop\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\MateBook 13\Desktop\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MateBook 13\Desktop\Task2\obj\Debug\Task2.Form1.resources
+C:\Users\MateBook 13\Desktop\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\MateBook 13\Desktop\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Users\MateBook 13\Desktop\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\MateBook 13\Desktop\Task2\obj\Debug\Task2.csproj.CopyComplete
+C:\Users\MateBook 13\Desktop\Task2\obj\Debug\Task2.exe
+C:\Users\MateBook 13\Desktop\Task2\obj\Debug\Task2.pdb
+C:\Users\Utenk\Desktop\Обучение\графика\Task7\bin\Debug\Task2.exe.config
+C:\Users\Utenk\Desktop\Обучение\графика\Task7\bin\Debug\Task2.exe
+C:\Users\Utenk\Desktop\Обучение\графика\Task7\bin\Debug\Task2.pdb
+C:\Users\Utenk\Desktop\Обучение\графика\Task7\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\Utenk\Desktop\Обучение\графика\Task7\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utenk\Desktop\Обучение\графика\Task7\obj\Debug\Task2.Form1.resources
+C:\Users\Utenk\Desktop\Обучение\графика\Task7\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\Utenk\Desktop\Обучение\графика\Task7\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Users\Utenk\Desktop\Обучение\графика\Task7\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Utenk\Desktop\Обучение\графика\Task7\obj\Debug\Task2.csproj.CopyComplete
+C:\Users\Utenk\Desktop\Обучение\графика\Task7\obj\Debug\Task2.exe
+C:\Users\Utenk\Desktop\Обучение\графика\Task7\obj\Debug\Task2.pdb
