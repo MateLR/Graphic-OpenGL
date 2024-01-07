@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Utenk\Desktop\Обучение\графика\Task8\v2\Ray-tracing\main.cpp(27,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Utenk\Desktop\Обучение\графика\Task8\v2\Ray-tracing\main.cpp(34,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Utenk\Desktop\Обучение\графика\Task8\v2\Ray-tracing\main.cpp(38,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Utenk\Desktop\Обучение\графика\Task8\v2\Ray-tracing\main.cpp(38,52): warning C4244:         with
+C:\Users\Utenk\Desktop\Обучение\графика\Task8\v2\Ray-tracing\main.cpp(38,52): warning C4244:         [
+C:\Users\Utenk\Desktop\Обучение\графика\Task8\v2\Ray-tracing\main.cpp(38,52): warning C4244:             T=float
+C:\Users\Utenk\Desktop\Обучение\графика\Task8\v2\Ray-tracing\main.cpp(38,52): warning C4244:         ]
+C:\Users\Utenk\Desktop\Обучение\графика\Task8\v2\Ray-tracing\main.cpp(38,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Utenk\Desktop\Обучение\графика\Task8\v2\Ray-tracing\main.cpp(38,49): warning C4244:         with
+C:\Users\Utenk\Desktop\Обучение\графика\Task8\v2\Ray-tracing\main.cpp(38,49): warning C4244:         [
+C:\Users\Utenk\Desktop\Обучение\графика\Task8\v2\Ray-tracing\main.cpp(38,49): warning C4244:             T=float
+C:\Users\Utenk\Desktop\Обучение\графика\Task8\v2\Ray-tracing\main.cpp(38,49): warning C4244:         ]
+  Ray-tracing.vcxproj -> C:\Users\Utenk\Desktop\Обучение\графика\Task8\v2\Ray-tracing\x64\Debug\Ray-tracing.exe
